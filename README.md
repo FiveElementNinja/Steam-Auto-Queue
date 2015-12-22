@@ -6,7 +6,7 @@ This script will automatically click next on all the games in your queue so you 
 ## Installation
 
 1. Make sure you have [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) if you're using Firefox, or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) if you're using Chome. Steam Auto Queue will not work without Greasemonkey or Tampermonkey.
-2. After Greasemonkey/Tampermonkey are installed, visit https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.js and it will prompt you to install the script.
+2. After Greasemonkey/Tampermonkey are installed, visit https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.user.js and it will prompt you to install the script.
 
 ## Usage
 1. Once Steam Auto Queue is installed, visit http://store.steampowered.com/explore/ and click where it says "*Click here to begin exploring your queue*" to start the process.
