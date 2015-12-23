@@ -1,6 +1,6 @@
 # Steam Auto Queue
 
-This script will automatically click Next on all the games in your queue so you can clear it out and get your card.
+This script will automatically click Next on all the games in your queue so you can clear it out and get your cards for the 2015 Holiday Sale.
 
 
 ## Installation
@@ -9,7 +9,7 @@ This script will automatically click Next on all the games in your queue so you 
 2. After Greasemonkey/Tampermonkey are installed, visit https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.user.js and it will prompt you to install the script.
 
 ## Usage
-1. Once Steam Auto Queue is installed, visit http://store.steampowered.com/explore/ and click where it says "*Click here to begin exploring your queue*" to start the process.
+1. Once Steam Auto Queue is installed, visit http://store.steampowered.com/explore/ and click where it says "*Click here to begin exploring your queue*" or "*Start another queue >>*" to start the process.
 2. Steam Auto Queue will automatically click Next on each page load until your queue is empty.
 3. Repeat up to 3 times a day to get all your cards.
 
