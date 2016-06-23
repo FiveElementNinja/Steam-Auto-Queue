@@ -1,6 +1,6 @@
 # Steam Auto Queue
 
-This script will automatically click Next on all the games in your queue so you can clear it out and get your cards for the 2015 Holiday Sale.
+This script will automatically click Next on all the games in your queue so you can clear it out and get your cards for the 2016 Steam Summer Picnic Sale.
 
 
 ## Installation
