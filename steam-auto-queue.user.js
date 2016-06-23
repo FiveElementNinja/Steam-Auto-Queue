@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam Auto Queue
 // @namespace    https://github.com/FiveElementNinja/Steam-Auto-Queue/
-// @version      0.3
+// @version      1.0
 // @description  This script will automatically click next on all the games in your queue so you can clear it out and get your card.
 // @author       Five Element Ninja (Twitter: @FivElementNinja)
 // @match        *://store.steampowered.com/app/*
