@@ -5,12 +5,12 @@
 // @description  This script will automatically click through your discovery queue so you can get a sale card.
 // @author       Five Element Ninja (Twitter: @FivElementNinja)
 // @match        *://store.steampowered.com/app/*
+// @match        *://store.steampowered.com/agecheck/app/*
 // @updateURL    https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.user.js
 // @downloadURL  https://raw.githubusercontent.com/FiveElementNinja/Steam-Auto-Queue/master/steam-auto-queue.user.js
 // @grant        none
 // ==/UserScript==
 /* jshint -W097 */
-
 (function() {
     'use strict';
 
